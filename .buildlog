@@ -1180,3 +1180,5 @@ build.dart --machine --changed=Procfile
 Total time                                                   -- 2533 ms
 build.dart finished [3665 ms]
 
+---
+build.dart --machine --changed=web\server\solarserver.dart
