@@ -5,13 +5,15 @@ import 'staticfiles.dart';
 import 'NetworkConnectionManager.dart';
 
 
-final IP = '127.0.0.1';
-final PORT = 80;
+final IP = '0.0.0.0';
+int PORT = 80;
 HttpServer WebServer;
 NetworkedSystem NetworkConnectionManager;
 StaticFileHandler StaticFiles;
 
 main() {
+    PORT = int.parse(Platform.environment['PORT']);
+  
     NetworkConnectionManager = new NetworkedSystem();
     StaticFiles = new StaticFileHandler("C:/Users/Fuss/dart/solar/web/client");
     _start_network_server();

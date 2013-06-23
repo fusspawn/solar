@@ -1103,3 +1103,63 @@ build.dart --machine --changed=Procfile --removed=run.sh
 Total time                                                   -- 3637 ms
 build.dart finished [5144 ms]
 
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4721 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7367 ms
+build.dart finished [8499 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4808 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7458 ms
+build.dart finished [8499 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4694 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7303 ms
+build.dart finished [8298 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4692 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7369 ms
+build.dart finished [8397 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4731 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7307 ms
+build.dart finished [8315 ms]
+
