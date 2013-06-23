@@ -15,7 +15,7 @@ main() {
     PORT = int.parse(Platform.environment['PORT']);
   
     NetworkConnectionManager = new NetworkedSystem();
-    StaticFiles = new StaticFileHandler("C:/Users/Fuss/dart/solar/web/client");
+    StaticFiles = new StaticFileHandler("./web/client");
     _start_network_server();
     _bind_network_events();
 }
