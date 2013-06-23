@@ -14,18 +14,14 @@ StaticFileHandler StaticFiles;
 main() {
     NetworkConnectionManager = new NetworkedSystem();
     StaticFiles = new StaticFileHandler("C:/Users/Fuss/dart/solar/web/client");
-    _start_server();
+    _start_network_server();
     _bind_network_events();
 }
 
 void _bind_network_events() {
-    NetworkConnectionManager.OnMessageIncomingEvents.add((S, M) {
-         print("Fucking EventBinding!");
-         S.add(M);
-    });
 }
 
-void _start_server() {
+void _start_network_server() {
   HttpServer.bind(IP, PORT)
   .then((HttpServer server) {
     print('listening for connections on $PORT');
