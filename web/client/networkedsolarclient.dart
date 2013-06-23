@@ -26,7 +26,7 @@ class ConnectionManager {
           Map<String, Object> Packet = new Map<String, Object>();
           Packet["Test"] = "Hello World";
           SendObject(Packet);
-          print("ConnectionManager:_Socket:open | $e");
+          print("ConnectionManager:_Socket:open | $e"); 
       });
       
       _Socket.onClose.listen((e) {

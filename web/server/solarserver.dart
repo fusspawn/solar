@@ -15,6 +15,14 @@ main() {
     NetworkConnectionManager = new NetworkedSystem();
     StaticFiles = new StaticFileHandler("C:/Users/Fuss/dart/solar/web/client");
     _start_server();
+    _bind_network_events();
+}
+
+void _bind_network_events() {
+    NetworkConnectionManager.OnMessageIncomingEvents.add((S, M) {
+         print("Fucking EventBinding!");
+         S.add(M);
+    });
 }
 
 void _start_server() {
@@ -29,7 +37,6 @@ void _start_server() {
 
     server.listen((HttpRequest request) {
       if (request.uri.path == '/ws') {
-        print("Incoming Websocket Request");
         sc.add(request);
       } else {
         print("was static handler");

@@ -5,9 +5,16 @@ import 'dart:async';
 
 class NetworkedSystem {
   Set<WebSocket> SocketConnections;
+
+  List<Function> OnConnectionEvents;
+  List<Function> OnDisconnectionEvents;
+  List<Function> OnMessageIncomingEvents;
   
   NetworkedSystem() {
     SocketConnections = new Set<WebSocket>();
+    OnConnectionEvents = new List<Function>();
+    OnDisconnectionEvents = new List<Function>();
+    OnMessageIncomingEvents = new List<Function>();
   }
   
   OnConnection(WebSocket S) 
@@ -19,13 +26,28 @@ class NetworkedSystem {
             OnMessage(S, Message);
         },
         onDone: () => SocketConnections.remove(S),
-        onError: (e) => SocketConnections.remove(S)    
+        onError: (e) { 
+          OnDisconnect(S);
+          SocketConnections.remove(S);
+        }   
     );
+    
+    OnConnectionEvents.forEach((e) {
+        e(S);
+    });
+  }
+  
+  OnDisconnect(WebSocket S) {
+    OnDisconnectionEvents.forEach((e) {
+        e(S);
+    });
   }
  
   OnMessage(WebSocket S, String Message) 
   {
-      S.add(Message);
+    OnMessageIncomingEvents.forEach((f) {
+          f(S, Message);
+    });
   }
   
   AllBarOne(Message, Excludee) 
