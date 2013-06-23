@@ -1,3 +1,5 @@
+library NetworkedSolar;
+
 import 'dart:io';
 import 'dart:json';
 import 'dart:async';
