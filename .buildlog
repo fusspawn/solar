@@ -1552,3 +1552,18 @@ build.dart --machine --changed=debugstart.sh
 Total time                                                   -- 2513 ms
 build.dart finished [3508 ms]
 
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2578 ms
+build.dart finished [5929 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2594 ms
+build.dart finished [3624 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2987 ms
+build.dart finished [4226 ms]
+
