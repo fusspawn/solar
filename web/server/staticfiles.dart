@@ -21,7 +21,7 @@ class StaticFileHandler {
             {
               print("file not found");
               print(RelativePath);
-              req.response.write("404");
+              req.response.write("No such file: $RelativePath");
               req.response.close();
               return;
             }
