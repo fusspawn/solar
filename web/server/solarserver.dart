@@ -12,7 +12,7 @@ NetworkedSystem NetworkConnectionManager;
 StaticFileHandler StaticFiles;
 
 main() {
-    //PORT = int.parse(Platform.environment['PORT']);
+    PORT = int.parse(Platform.environment['PORT']);
   
     NetworkConnectionManager = new NetworkedSystem();
     StaticFiles = new StaticFileHandler("\\client");
