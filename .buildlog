@@ -1530,3 +1530,25 @@ Total time spent on web/server/client/networkedsolar.html    -- 5192 ms
 Total time                                                   -- 7811 ms
 build.dart finished [8887 ms]
 
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/server/client/networkedsolar.html    -- 4716 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7325 ms
+build.dart finished [8462 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2595 ms
+build.dart finished [3628 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2513 ms
+build.dart finished [3508 ms]
+
