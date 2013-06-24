@@ -1572,3 +1572,5 @@ build.dart --machine --changed=debugstart.sh
 Total time                                                   -- 2643 ms
 build.dart finished [3819 ms]
 
+---
+build.dart --machine --changed=debugstart.sh
