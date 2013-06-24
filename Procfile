@@ -1,1 +1,1 @@
-web: debugstart.sh
+web: ./debugstart.sh
