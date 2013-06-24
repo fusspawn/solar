@@ -1473,3 +1473,33 @@ Total time spent on web/server/client/networkedsolar.html    -- 4670 ms
 Total time                                                   -- 7301 ms
 build.dart finished [8379 ms]
 
+---
+build.dart --machine --changed=Procfile
+Total time                                                   -- 2677 ms
+build.dart finished [3847 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2767 ms
+build.dart finished [4506 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2505 ms
+build.dart finished [3486 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2475 ms
+build.dart finished [3482 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2526 ms
+build.dart finished [3613 ms]
+
+---
+build.dart --machine --changed=debugstart.sh
+Total time                                                   -- 2868 ms
+build.dart finished [3850 ms]
+
