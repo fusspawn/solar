@@ -2,5 +2,5 @@ import 'package:web_ui/component_build.dart';
 import 'dart:io';
 
 void main() {
-  build(new Options().arguments, ['web/client/networkedsolar.html']);
+  build(new Options().arguments, ['web/server/client/networkedsolar.html']);
 }

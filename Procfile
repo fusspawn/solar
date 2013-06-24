@@ -1,1 +1,1 @@
-web: dir; ./dart-sdk/bin/dart web/server/solarserver.dart
+web: ./dart-sdk/bin/dart web/server/solarserver.dart

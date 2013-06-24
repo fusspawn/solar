@@ -1182,3 +1182,246 @@ build.dart finished [3665 ms]
 
 ---
 build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 5070 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8006 ms
+build.dart finished [9077 ms]
+
+---
+build.dart --machine --changed=Procfile
+Total time                                                   -- 2624 ms
+build.dart finished [3735 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4797 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7663 ms
+build.dart finished [8682 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+Total time                                                   -- 2715 ms
+build.dart finished [6957 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5223 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8242 ms
+build.dart finished [9384 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5127 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7805 ms
+build.dart finished [8893 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 4753 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7357 ms
+build.dart finished [8396 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5446 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8390 ms
+build.dart finished [9800 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5571 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8345 ms
+build.dart finished [9568 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5056 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7728 ms
+build.dart finished [8935 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 6248 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 9221 ms
+build.dart finished [10766 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 4805 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7420 ms
+build.dart finished [8458 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 4984 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7795 ms
+build.dart finished [8797 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4652 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7230 ms
+build.dart finished [8257 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/client/networkedsolar.html           -- 5486 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8169 ms
+build.dart finished [9416 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 5373 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8508 ms
+build.dart finished [9982 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/client/networkedsolar.html           -- 4769 ms
+[{"method":"mapping","params":{"from":"web/client/networkedsolar.html","to":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7478 ms
+build.dart finished [8529 ms]
+
+---
+build.dart --machine --changed=web\server\client\connectionmanager.dart --changed=web\server\client\networkedso...
+error unable to open file "web/client/networkedsolar.html"
+Total time spent on web/client/networkedsolar.html           --  57 ms
+Total time                                                   -- 3055 ms
+build.dart finished [4708 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/server/client/networkedsolar.html    -- 6113 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 9688 ms
+build.dart finished [11553 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/server/client/networkedsolar.html    -- 4982 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7738 ms
+build.dart finished [8779 ms]
+
+---
+build.dart --machine --changed=web\server\staticfiles.dart
+Total time spent on web/server/client/networkedsolar.html    -- 5678 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 8275 ms
+build.dart finished [9526 ms]
+
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/server/client/networkedsolar.html    -- 4933 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7562 ms
+build.dart finished [8572 ms]
+

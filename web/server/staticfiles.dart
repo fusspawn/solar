@@ -2,7 +2,7 @@ library StaticFileHandler;
 
 import 'dart:io';
 import 'dart:async';
-
+import 'package:pathos/path.dart' as path;
 
 class StaticFileHandler {
     String BaseDir; 
@@ -12,14 +12,15 @@ class StaticFileHandler {
     }
    
     void HandleFile(HttpRequest req) {
-        String path = BaseDir + req.uri.path;
-        print(path);
-        File file = new File(path);
+        String _path = Directory.current.path + BaseDir + req.uri.path;
+        String RelativePath = _path;
+        print(RelativePath);
+        File file = new File(RelativePath);
         file.exists().then((bool exists) { 
             if(!exists)
             {
               print("file not found");
-              print(path);
+              print(RelativePath);
               req.response.write("404");
               req.response.close();
               return;
