@@ -1,1 +1,1 @@
-web: ./debugstart.sh
+web: chmod +x ./debugstart.sh; ./debugstart.sh;
