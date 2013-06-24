@@ -15,7 +15,7 @@ main() {
     PORT = int.parse(Platform.environment['PORT']);
   
     NetworkConnectionManager = new NetworkedSystem();
-    StaticFiles = new StaticFileHandler("\\client");
+    StaticFiles = new StaticFileHandler("\\web\\server\\client");
     _start_network_server();
     _bind_network_events();
 }

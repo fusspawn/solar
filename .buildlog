@@ -1518,3 +1518,15 @@ build.dart --machine --changed=Procfile
 Total time                                                   -- 2495 ms
 build.dart finished [3753 ms]
 
+---
+build.dart --machine --changed=web\server\solarserver.dart
+Total time spent on web/server/client/networkedsolar.html    -- 5192 ms
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html_bootstrap.dart"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\solar.css"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart.map"}}]
+[{"method":"mapping","params":{"from":"web/server/client/networkedsolar.html","to":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolar.html"}}]
+[{"method":"generated","params":{"file":"web\\server\\client\\out\\networkedsolarclient.dart"}}]
+Total time                                                   -- 7811 ms
+build.dart finished [8887 ms]
+
