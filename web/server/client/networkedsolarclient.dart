@@ -4,7 +4,7 @@ import 'dart:async';
 import 'connectionmanager.dart';
 import 'package:stagexl/stagexl.dart';
 
-final IP = '127.0.0.1';
+final IP = 'solardart.herokuapp.com';
 final PORT = 80;
 
 ConnectionManager ConnManager;
