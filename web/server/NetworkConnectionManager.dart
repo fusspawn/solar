@@ -7,7 +7,6 @@ import 'dart:async';
 
 class NetworkedSystem {
   Set<WebSocket> SocketConnections;
-
   List<Function> OnConnectionEvents;
   List<Function> OnDisconnectionEvents;
   List<Function> OnMessageIncomingEvents;
@@ -52,7 +51,7 @@ class NetworkedSystem {
     });
   }
   
-  AllBarOne(Message, Excludee) 
+  AllBarOne(Message, WebSocket Excludee) 
   { 
       SocketConnections.forEach((WebSocket S) {
           if(S != Excludee)
@@ -65,5 +64,9 @@ class NetworkedSystem {
       SocketConnections.forEach((WebSocket S) {
           S.add(Message);
       });
+  }
+  
+  SendTo(WebSocket Socket, String Message) {
+      Socket.add(Message);
   }
 }
